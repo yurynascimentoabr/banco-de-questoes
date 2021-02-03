@@ -1,0 +1,11 @@
+ #botaolog2{
+        font-size: 25px; 
+        position: relative;
+        height: 45px;
+        width: 103px;
+        left: -30px;
+        border-radius: 9px;
+        -moz-border-radius: 4px;
+        background-image: url(imagens/mat.png);
+        top: -10px;
+    }

@@ -1,0 +1,60 @@
+#inicial{
+position: absolute;
+top:0;
+left: 0;
+padding:0;
+background-image: url(imagens/blue.jpg);
+background-repeat: repeat;
+height: 500px;
+width:1599px;
+}
+#img{
+    position: fixed;
+    left: 780px;
+}
+#texto{
+    color: white;
+    top: 200px;
+ }
+#botao_login{
+    position: fixed;
+    left: 1000px;
+    margin-top: 15px;
+}
+.textos{
+    position: fixed;
+    text-align: center;
+    margin: auto 20px;
+    padding-top: 30px;
+    top: 500px;
+    color: black;
+    }
+#imgpesquise{
+    top: 700px;
+    position: fixed;
+     font-family: 'Times New Roman', Times, serif;
+}
+#sobre{
+    top:700px;
+    position: absolute;
+    margin: auto 100px;
+
+}
+#imgescreva{
+    position: fixed;
+    top: 700px;
+    margin: auto 400px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#imgsolucione{
+    position: fixed;
+    top: 700px;
+    margin: auto 800px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.botcom{
+    position: fixed;
+    top: 1000px;
+    margin: auto 200px;
+     color: grey;
+}
